@@ -1,3 +1,4 @@
+import os
 
 print("========= Calculadora ==========")
 print(" 0 : Soma")
@@ -9,6 +10,7 @@ print(" 4 : Exponenciação")
 opcao=True
 usar=""
 while opcao:
+    os.system("clear")
     print("Escolha a operação que deseja realizar")
     operacao=int(input())
      # Operação soma
