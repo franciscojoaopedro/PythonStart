@@ -1,0 +1,5 @@
+INFO:root:Olá
+CRITICAL:root:Erro grave
+ERROR:root:Erro
+DEBUG:root:Erro grave
+WARNING:root:Erro grave
